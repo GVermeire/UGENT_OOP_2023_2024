@@ -1,11 +1,11 @@
 # UGENT_OOP_2023_2024
 
-Welcome to the UGENT_OOP_2023_2024 project! This project is created and maintained by Gianni Vermeire.
+Welcome to the UGENT_OOP_2023_2024 project! This project is created and maintained by GVermeire.
 
 ## Project Overview
 
 
-The UGENT_OOP_2023_2024 project contains Gianni Vermeire's personal solutions to the Dodona exercises assigned by his professor for the Object-Oriented Programming (OOP) course. These exercises are designed to reinforce and assess the understanding of OOP concepts and principles.
+The UGENT_OOP_2023_2024 project contains GVermeire's personal solutions to the Dodona exercises assigned by his professor for the Object-Oriented Programming (OOP) course. These exercises are designed to reinforce and assess the understanding of OOP concepts and principles.
 
 
 ## Cloning the Repository
